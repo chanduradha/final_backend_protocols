@@ -1,0 +1,15 @@
+2024-12-03 10:31:31 - ServerManager - INFO - [MainProcess] - Started rtu_server on localhost:8005
+2024-12-03 10:31:31 - ServerManager - ERROR - [MainProcess] - Failed to start tcp_server: cannot pickle 'weakref.ReferenceType' object
+2024-12-03 10:31:31 - ServerManager - ERROR - [MainProcess] - Failed to start profinet_server: cannot pickle 'weakref.ReferenceType' object
+2024-12-03 10:31:31 - ServerManager - ERROR - [MainProcess] - Failed to start http_server: cannot pickle 'weakref.ReferenceType' object
+2024-12-03 10:31:31 - ServerManager - ERROR - [MainProcess] - Failed to start opc_ua_server: cannot pickle 'weakref.ReferenceType' object
+2024-12-03 10:31:31 - ServerManager - ERROR - [MainProcess] - Failed to start mqtt_server: cannot pickle 'weakref.ReferenceType' object
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Received interrupt. Stopping servers...
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Terminating rtu_server
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Started rtu_server on localhost:8005
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Started tcp_server on localhost:8002
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Started profinet_server on localhost:8009
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Started http_server on localhost:8006
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Started opc_ua_server on localhost:8004
+2024-12-03 10:33:07 - ServerManager - INFO - [MainProcess] - Started mqtt_server on localhost:8003
+2024-12-03 10:34:38 - ServerManager - INFO - [MainProcess] - Stopping servers...
